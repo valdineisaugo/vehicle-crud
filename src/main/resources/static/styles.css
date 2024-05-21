@@ -65,3 +65,23 @@ form {
     background-color: white;
     box-shadow: 2px 2px 8px #aaa;
 }
+
+.menu {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.button {
+    padding: 15px 30px;
+    text-decoration: none;
+    color: white;
+    background-color: #007bff;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
