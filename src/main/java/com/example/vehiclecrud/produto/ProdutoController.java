@@ -1,7 +1,6 @@
 package com.example.vehiclecrud.produto;
 
-import com.example.vehiclecrud.Vehicle;
-import com.example.vehiclecrud.VehicleService;
+import com.example.vehiclecrud.entity.Produto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

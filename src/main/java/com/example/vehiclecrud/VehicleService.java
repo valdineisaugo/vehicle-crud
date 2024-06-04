@@ -1,5 +1,6 @@
 package com.example.vehiclecrud;
 
+import com.example.vehiclecrud.entity.Vehicle;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
